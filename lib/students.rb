@@ -1,11 +1,11 @@
-## Code your solution below. Note that your SQL queries should be in quotation marks. 
+## Code your solution below. Note that your SQL queries should be in quotation marks.
 
 def highest_student_gpa
-  SELECT MAX()FROM studend 
+  SELECT MAX()FROM studend
 end
 
 def lowest_student_gpa
-  SELECT MIN FROM student 
+  SELECT MIN FROM student
 end
 
 def average_student_gpa
